@@ -1,0 +1,16 @@
+,location,state,credit_history,purpose,employment,installment_commitment,personal_status,other_parties,residence_since,property_magnitude,housing,job,num_dependents,foreign_worker,class
+location,,N,I,I,I,I,I,N,I,I,I,I,I,I,I
+state,,,I,I,N,I,I,I,I,I,I,I,I,I,I
+credit_history,,,,N,N,I,N,I,I,I,I,I,I,I,I
+purpose,,,,,N,N,N,N,I,N,N,N,N,I,I
+employment,,,,,,I,N,N,N,N,N,N,I,I,I
+installment_commitment,,,,,,,N,I,I,I,I,I,I,I,I
+personal_status,,,,,,,,I,N,N,N,I,N,I,I
+other_parties,,,,,,,,,I,N,I,I,I,I,I
+residence_since,,,,,,,,,,N,N,I,I,I,I
+property_magnitude,,,,,,,,,,,N,N,N,I,I
+housing,,,,,,,,,,,,N,N,I,I
+job,,,,,,,,,,,,,N,I,I
+num_dependents,,,,,,,,,,,,,,I,I
+foreign_worker,,,,,,,,,,,,,,,I
+class,,,,,,,,,,,,,,,

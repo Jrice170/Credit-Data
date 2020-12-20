@@ -1,0 +1,1288 @@
+[None, 'Pennsylvania', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Pennsylvania', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Pennsylvania', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Pennsylvania', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Pennsylvania', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Pennsylvania', "'delayed previously'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Pennsylvania', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Pennsylvania', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Pennsylvania', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Pennsylvania', "'no credits/all paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Pennsylvania', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Pennsylvania', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Pennsylvania', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Pennsylvania', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Rhodes Island', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Rhodes Island', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Rhodes Island', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Rhodes Island', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Rhodes Island', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Rhodes Island', "'delayed previously'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Rhodes Island', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Rhodes Island', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Rhodes Island', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Rhodes Island', "'no credits/all paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Rhodes Island', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Rhodes Island', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Rhodes Island', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Rhodes Island', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'South Carolina', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'South Carolina', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'South Carolina', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'South Carolina', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'South Carolina', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'South Carolina', "'delayed previously'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'South Carolina', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'South Carolina', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'South Carolina', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'South Carolina', "'no credits/all paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'South Carolina', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'South Carolina', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'South Carolina', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'South Carolina', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'South Dakota', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'South Dakota', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'South Dakota', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'South Dakota', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'South Dakota', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'South Dakota', "'delayed previously'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'South Dakota', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'South Dakota', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'South Dakota', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'South Dakota', "'no credits/all paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'South Dakota', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'South Dakota', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'South Dakota', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'South Dakota', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Tennessee', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Tennessee', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Tennessee', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Tennessee', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Tennessee', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Tennessee', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Tennessee', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Tennessee', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Tennessee', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Tennessee', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Tennessee', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Tennessee', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Tennessee', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Tennessee', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Texas', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Texas', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Texas', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Texas', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Texas', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Texas', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Texas', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Texas', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Texas', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Texas', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Texas', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Texas', "'all paid'", 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Texas', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Texas', nan, 'radio/tv', '1<=X<4', "'male single'", 'none',
+       'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Utah', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Utah', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Utah', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Utah', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Utah', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Utah', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Utah', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Utah', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Utah', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Utah', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Utah', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Utah', "'all paid'", 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Utah', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Utah', nan, 'radio/tv', '1<=X<4', "'male single'", 'none',
+       'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Virginia', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Virginia', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Virginia', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Virginia', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Virginia', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Virginia', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Virginia', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Virginia', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Virginia', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Virginia', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Virginia', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Virginia', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Virginia', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Virginia', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Vermont', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Vermont', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Vermont', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Vermont', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Vermont', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Vermont', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Vermont', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Vermont', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Vermont', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Vermont', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Vermont', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Vermont', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Vermont', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Vermont', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Washington', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Washington', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Washington', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Washington', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Washington', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Washington', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Washington', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Washington', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Washington', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Washington', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Washington', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Washington', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Washington', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Washington', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Wisconsin', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wisconsin', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Wisconsin', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wisconsin', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Wisconsin', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wisconsin', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Wisconsin', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wisconsin', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Wisconsin', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wisconsin', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Wisconsin', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wisconsin', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Wisconsin', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wisconsin', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'West Virginia', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'West Virginia', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'West Virginia', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'West Virginia', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'West Virginia', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'West Virginia', "'delayed previously'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'West Virginia', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'West Virginia', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'West Virginia', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'West Virginia', "'no credits/all paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'West Virginia', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'West Virginia', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'West Virginia', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'West Virginia', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Wyoming', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wyoming', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Wyoming', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wyoming', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Wyoming', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wyoming', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Wyoming', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wyoming', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Wyoming', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wyoming', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Wyoming', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wyoming', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Wyoming', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Wyoming', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Alaska', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Alaska', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Alaska', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Alaska', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Alaska', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Alaska', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Alaska', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Alaska', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Alaska', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Alaska', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Alaska', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Alaska', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Alaska', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Alaska', nan, 'radio/tv', '1<=X<4', "'male single'", 'none',
+       'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Arkansas', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arkansas', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Arkansas', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arkansas', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Arkansas', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arkansas', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Arkansas', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arkansas', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Arkansas', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arkansas', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Arkansas', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arkansas', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Arkansas', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arkansas', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Arizona', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arizona', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Arizona', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arizona', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Arizona', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arizona', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Arizona', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arizona', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Arizona', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arizona', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Arizona', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arizona', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Arizona', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Arizona', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'California', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'California', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'California', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'California', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'California', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'California', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'California', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'California', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'California', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'California', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'California', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'California', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'California', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'California', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Colorado', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Colorado', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Colorado', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Colorado', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Colorado', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Colorado', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Colorado', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Colorado', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Colorado', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Colorado', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Colorado', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Colorado', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Colorado', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Colorado', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Connecticut', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Connecticut', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Connecticut', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Connecticut', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Connecticut', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Connecticut', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Connecticut', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Connecticut', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Connecticut', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Connecticut', "'no credits/all paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Connecticut', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Connecticut', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Connecticut', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Connecticut', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'District of Columbia', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'District of Columbia', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'District of Columbia', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'District of Columbia', "'existing paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'District of Columbia', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'District of Columbia', "'delayed previously'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'District of Columbia', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'District of Columbia', 'no credit history', 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'District of Columbia', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'District of Columbia', "'no credits/all paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'District of Columbia', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'District of Columbia', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'District of Columbia', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'District of Columbia', nan, 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Delaware', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Delaware', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Delaware', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Delaware', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Delaware', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Delaware', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Delaware', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Delaware', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Delaware', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Delaware', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Delaware', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Delaware', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Delaware', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Delaware', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Georgia', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Georgia', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Georgia', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Georgia', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Georgia', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Georgia', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Georgia', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Georgia', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Georgia', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Georgia', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Georgia', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Georgia', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Georgia', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Georgia', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Hawaii', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Hawaii', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Hawaii', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Hawaii', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Hawaii', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Hawaii', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Hawaii', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['Unknown', 'Hawaii', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'Unknown', 'Good'], dtype=object)]
+[None, 'Hawaii', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['Unknown', 'Hawaii', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'Unknown', 'Good'], dtype=object)]
+[None, 'Hawaii', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Hawaii', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Hawaii', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Hawaii', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Illinois', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Illinois', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Illinois', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Illinois', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Illinois', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Illinois', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Illinois', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Illinois', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Illinois', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Illinois', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Illinois', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Illinois', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Illinois', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Illinois', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Indiana', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Indiana', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Indiana', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Indiana', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Indiana', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Indiana', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Indiana', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Indiana', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Indiana', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Indiana', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Indiana', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Indiana', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Indiana', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Indiana', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Kentucky', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Kentucky', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Kentucky', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Kentucky', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Kentucky', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Kentucky', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Kentucky', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Kentucky', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Kentucky', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Kentucky', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Kentucky', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Kentucky', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Kentucky', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Kentucky', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Louisiana', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Louisiana', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Louisiana', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Louisiana', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Louisiana', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Louisiana', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Louisiana', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Louisiana', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Louisiana', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Louisiana', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Louisiana', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Louisiana', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Louisiana', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Louisiana', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Massachusetts', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Massachusetts', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Massachusetts', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Massachusetts', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Massachusetts', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Massachusetts', "'delayed previously'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Massachusetts', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Massachusetts', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Massachusetts', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Massachusetts', "'no credits/all paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Massachusetts', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Massachusetts', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Massachusetts', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Massachusetts', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Maryland', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Maryland', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Maryland', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Maryland', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Maryland', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Maryland', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Maryland', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Maryland', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Maryland', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Maryland', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Maryland', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Maryland', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Maryland', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Maryland', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Michigan', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Michigan', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Michigan', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Michigan', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Michigan', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Michigan', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Michigan', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Michigan', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Michigan', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Michigan', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Michigan', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Michigan', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Michigan', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Michigan', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Missouri', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Missouri', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Missouri', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Missouri', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Missouri', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Missouri', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Missouri', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Missouri', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Missouri', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Missouri', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Missouri', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Missouri', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Missouri', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Missouri', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Mississippi', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Mississippi', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Mississippi', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Mississippi', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Mississippi', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Mississippi', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Mississippi', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Mississippi', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Mississippi', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Mississippi', "'no credits/all paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Mississippi', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Mississippi', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Mississippi', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Mississippi', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'North Carolina', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'North Carolina', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'North Carolina', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'North Carolina', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'North Carolina', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'North Carolina', "'delayed previously'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'North Carolina', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'North Carolina', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'North Carolina', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'North Carolina', "'no credits/all paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'North Carolina', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'North Carolina', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'North Carolina', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'North Carolina', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'New Hampshire', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Hampshire', "'critical/other existing credit'",
+       'radio/tv', '1<=X<4', "'male single'", 'none', 'car', 31, 'none',
+       'own', 'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'New Hampshire', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Hampshire', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Hampshire', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Hampshire', "'delayed previously'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'New Hampshire', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Hampshire', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Hampshire', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Hampshire', "'no credits/all paid'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'New Hampshire', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Hampshire', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Hampshire', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Hampshire', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'New Jersey', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Jersey', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'New Jersey', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Jersey', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Jersey', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Jersey', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Jersey', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'New Jersey', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'New Jersey', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Jersey', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Jersey', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Jersey', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Jersey', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Jersey', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'New Mexico', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Mexico', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'New Mexico', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Mexico', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Mexico', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Mexico', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Mexico', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Mexico', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Mexico', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Mexico', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Mexico', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Mexico', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New Mexico', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New Mexico', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Nevada', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Nevada', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Nevada', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Nevada', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Nevada', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Nevada', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Nevada', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Nevada', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Nevada', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Nevada', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Nevada', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Nevada', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Nevada', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Nevada', nan, 'radio/tv', '1<=X<4', "'male single'", 'none',
+       'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'New York', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New York', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'New York', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New York', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New York', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New York', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New York', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New York', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New York', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New York', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New York', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New York', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'New York', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'New York', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Ohio', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Ohio', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Ohio', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Ohio', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Ohio', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Ohio', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Ohio', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Ohio', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Ohio', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Ohio', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Ohio', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Ohio', "'all paid'", 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Ohio', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Ohio', nan, 'radio/tv', '1<=X<4', "'male single'", 'none',
+       'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Oregon', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Oregon', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Oregon', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Oregon', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Oregon', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Oregon', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Oregon', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Oregon', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Oregon', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Oregon', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Oregon', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Oregon', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Oregon', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Oregon', nan, 'radio/tv', '1<=X<4', "'male single'", 'none',
+       'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Alabama', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Alabama', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'yes', 'Good'], dtype=object)]
+[None, 'Alabama', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Alabama', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Alabama', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Alabama', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Alabama', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Alabama', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Alabama', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Alabama', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Alabama', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Alabama', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Alabama', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Alabama', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'yes', 'Good'],
+      dtype=object)]
+[None, 'Florida', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Florida', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Florida', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Florida', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Florida', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Florida', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Florida', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Florida', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Florida', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Florida', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Florida', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Florida', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Florida', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Florida', nan, 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Iowa', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Iowa', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Iowa', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Iowa', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Iowa', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Iowa', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Iowa', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Iowa', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Iowa', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Iowa', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Iowa', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Iowa', "'all paid'", 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Iowa', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Iowa', nan, 'radio/tv', '1<=X<4', "'male single'", 'none',
+       'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Idaho', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Idaho', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Idaho', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Idaho', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Idaho', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Idaho', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Idaho', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Idaho', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Idaho', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Idaho', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Idaho', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Idaho', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Idaho', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Idaho', nan, 'radio/tv', '1<=X<4', "'male single'", 'none',
+       'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Kansas', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Kansas', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Kansas', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Kansas', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Kansas', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Kansas', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Kansas', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Kansas', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Kansas', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Kansas', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Kansas', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['yes', 'Kansas', "'all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'yes', 'Good'], dtype=object)]
+[None, 'Kansas', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Kansas', nan, 'radio/tv', '1<=X<4', "'male single'", 'none',
+       'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Maine', "'critical/other existing credit'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Maine', "'critical/other existing credit'", 'radio/tv',
+       '1<=X<4', "'male single'", 'none', 'car', 31, 'none', 'own',
+       'skilled', '1', 'no', 'Good'], dtype=object)]
+[None, 'Maine', "'existing paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Maine', "'existing paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Maine', "'delayed previously'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Maine', "'delayed previously'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Maine', 'no credit history', None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Maine', 'no credit history', 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Maine', "'no credits/all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Maine', "'no credits/all paid'", 'radio/tv', '1<=X<4',
+       "'male single'", 'none', 'car', 31, 'none', 'own', 'skilled', '1',
+       'no', 'Good'], dtype=object)]
+[None, 'Maine', "'all paid'", None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Maine', "'all paid'", 'radio/tv', '1<=X<4', "'male single'",
+       'none', 'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
+[None, 'Maine', nan, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[array(['no', 'Maine', nan, 'radio/tv', '1<=X<4', "'male single'", 'none',
+       'car', 31, 'none', 'own', 'skilled', '1', 'no', 'Good'],
+      dtype=object)]
